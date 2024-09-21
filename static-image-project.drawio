@@ -7,7 +7,7 @@
         <mxCell id="DtSaOkqhzlqooKWDMb_B-50" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="710" y="345" width="130" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="DtSaOkqhzlqooKWDMb_B-4" value="Image Project Workflow" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DtSaOkqhzlqooKWDMb_B-4" value="Project Workflow" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DtSaOkqhzlqooKWDMb_B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=block;endFill=1;endSize=3;startSize=3;strokeColor=#666666;" parent="1" source="DtSaOkqhzlqooKWDMb_B-5" target="DtSaOkqhzlqooKWDMb_B-16" edge="1">
