@@ -27,7 +27,7 @@
         <mxCell id="DtSaOkqhzlqooKWDMb_B-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DtSaOkqhzlqooKWDMb_B-6" target="DtSaOkqhzlqooKWDMb_B-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DtSaOkqhzlqooKWDMb_B-6" value="Production" style="whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#666666;fontStyle=1;fillColor=#666666;rounded=1;fontColor=#E8E8E8;" parent="1" vertex="1">
+        <mxCell id="DtSaOkqhzlqooKWDMb_B-6" value="Craft" style="whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#666666;fontStyle=1;fillColor=#666666;rounded=1;fontColor=#E8E8E8;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DtSaOkqhzlqooKWDMb_B-7" value="Critique" style="whiteSpace=wrap;html=1;shadow=0;glass=0;rounded=1;strokeWidth=4;strokeColor=#666666;fontStyle=1;fillColor=#666666;fontColor=#E8E8E8;" parent="1" vertex="1">
